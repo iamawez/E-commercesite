@@ -74,7 +74,9 @@ body{
 
 /* header */
 #header{
-    background: url(banner-img-1.jpg) top/cover no-repeat;
+    background: url(https://images.pexels.com/photos/972887/pexels-photo-972887.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) top/cover no-repeat;
+    background-size: cover; /* This is equivalent to object-fit: cover for background images */
+  background-position: center center; 
 }
 .carousel-inner h1{
     font-size: 60px;
