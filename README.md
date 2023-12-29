@@ -13,19 +13,19 @@ Welcome to My E-Commerce Website! This project is an online shopping website bui
 
   ## Demo
 
-Explore the [Live Demo](#) [https://e-commercesite-wcrr.onrender.com/].
+Explore the [Live Demo](https://e-commercesite-wcrr.onrender.com/).
 
 
 ## Technologies Used
 
-**HTML
-**CSS
-**JavaScript
-**Express.js
-**Node.js
-**Bootstrap
-**GSAP (for animations)
-**API
+**HTML**
+**CSS**
+**JavaScript**
+**Express.js**
+**Node.js**
+**Bootstrap**
+**GSAP (for animations)**
+**API**
 
 ## Installation
 
@@ -35,16 +35,19 @@ Follow these steps to set up and run the project locally:
    ```bash
    git clone https://github.com/your-username/your-repo.git
 
-1. Navigate to the Project Directory:
+1. **Navigate to the Project Directory**:
+   ```bash
    cd your-repo
    
-2. Install Dependencies:
+2. **Install Dependencies**:
+   ```bash
    npm install
 
-3.Start the Server:
-  npm start
+3. **Start the Server**:
+   ```bash
+   npm start
 
-4.View the Website:
-Open your browser and go to http://localhost:3000 to see the website.
+4.**View the Website**:
+Open your browser and go to 'http://localhost:3000' to see the website.
 
 Now, you have the project set up locally on your machine. Feel free to explore and make any modifications as needed.
