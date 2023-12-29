@@ -47,7 +47,7 @@ Follow these steps to set up and run the project locally:
    ```sh
    npm start
 
-4.**View the Website**:
+4. **View the Website**:
 Open your browser and go to 'http://localhost:3000' to see the website.
 
 Now, you have the project set up locally on your machine. Feel free to explore and make any modifications as needed.
