@@ -18,14 +18,14 @@ Explore the [Live Demo](https://e-commercesite-wcrr.onrender.com/).
 
 ## Technologies Used
 
-**HTML**
-**CSS**
-**JavaScript**
-**Express.js**
-**Node.js**
-**Bootstrap**
-**GSAP (for animations)**
-**API**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Express.js**
+- **Node.js**
+- **Bootstrap**
+- **GSAP (for animations)**
+- **API**
 
 ## Installation
 
