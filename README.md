@@ -11,7 +11,7 @@ Welcome to My E-Commerce Website! This project is an online shopping website bui
 - **Contact Information**: Footer includes contact details and social media links.
 
 
-  ## Demo
+## Demo
 
 Explore the [Live Demo](https://e-commercesite-wcrr.onrender.com/).
 
