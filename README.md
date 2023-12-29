@@ -18,33 +18,33 @@ Explore the [Live Demo](https://e-commercesite-wcrr.onrender.com/).
 
 ## Technologies Used
 
-- **HTML**:
-- **CSS**:
-- **JavaScript**:
-- **Express.js**:
-- **Node.js**:
-- **Bootstrap**:
-- **GSAP (for animations)**:
-- **API**:
+- HTML
+- CSS
+- JavaScript
+- Express.js
+- Node.js
+- Bootstrap
+- GSAP (for animations)
+- API
 
 ## Installation
 
 Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository:**
-   ```bash
+   ```sh
    git clone https://github.com/your-username/your-repo.git
 
 1. **Navigate to the Project Directory**:
-   ```bash
+   ```sh
    cd your-repo
    
 2. **Install Dependencies**:
-   ```bash
+   ```sh
    npm install
 
 3. **Start the Server**:
-   ```bash
+   ```sh
    npm start
 
 4.**View the Website**:
