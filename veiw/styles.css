@@ -269,11 +269,11 @@ footer a:hover{
     }
 
     .carousel-inner h1 {
-        font-size: 30px;
+        font-size: 25px;
     }
 
     .carousel-inner h2 {
-        font-size: 35px;
+        font-size: 20px;
     }
 
     .title h2::before {
@@ -284,6 +284,62 @@ footer a:hover{
 
     .card {
         margin-top: 2rem;
+    }
+
+    .btn:not(.nav-btns button){
+    background-color: #fff;
+    color: rgb(85, 85, 85);
+    padding: 9px 8px;
+    border-radius: 25px;
+    border: 1px solid rgb(85, 85, 85);
+    font-size: 15px;
+    }
+
+    /* Add more styles as needed for small devices */
+}
+
+@media (min-width: 300px) {
+    .navbar-brand {
+        margin-left: 0;
+    }
+
+    .navbar-brand span{
+        font-size: 13px;
+    }
+
+    .order-lg-2 {
+        margin-right: 0;
+    }
+
+    .nav-btns button {
+        font-size: 0.8rem;
+    }
+
+    .carousel-inner h1 {
+        font-size: 20px;
+    }
+
+    .carousel-inner h2 {
+        font-size: 18px;
+    }
+
+    .title h2::before {
+        width: 2px;
+        height: 20px;
+        left: -8px;
+    }
+
+    .card {
+        margin-top: 1.2rem;
+    }
+
+    .btn:not(.nav-btns button){
+    background-color: #fff;
+    color: rgb(85, 85, 85);
+    padding: 7px 6px;
+    border-radius: 25px;
+    border: 1px solid rgb(85, 85, 85);
+    font-size: 13px;
     }
 
     /* Add more styles as needed for small devices */
