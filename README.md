@@ -1,6 +1,6 @@
 # My E-Commerce Website
 
-Welcome to My E-Commerce Website! This project is an online shopping website built with HTML, CSS, JavaScript, Express, and Node.js. It's designed to provide a user-friendly and responsive shopping experience.
+Welcome to My E-Commerce Website! This project is an online shopping website built with Ejs, CSS, JavaScript, Express, and Node.js. It's designed to provide a user-friendly and responsive shopping experience.
 
 ## Features
 
@@ -18,7 +18,7 @@ Explore the [Live Demo](https://e-commercesite-wcrr.onrender.com).
 
 ## Technologies Used
 
-- HTML
+- Ejs
 - CSS
 - JavaScript
 - Express.js
