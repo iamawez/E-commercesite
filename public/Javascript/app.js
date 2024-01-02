@@ -69,7 +69,7 @@ gsap.from(".carousel-inner h1",{
 gsap.from("#yoyo", {
     y:-10,
    yoyo:"true",
-   repeat : 3
+   repeat : 5
 })
 
 
