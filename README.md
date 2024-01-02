@@ -13,7 +13,7 @@ Welcome to My E-Commerce Website! This project is an online shopping website bui
 
 ## Demo
 
-Explore the [Live Demo](https://e-commercesite-wcrr.onrender.com/).
+Explore the [Live Demo](https://e-commercesite-wcrr.onrender.com).
 
 
 ## Technologies Used
